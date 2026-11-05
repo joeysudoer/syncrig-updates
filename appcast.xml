@@ -4,6 +4,18 @@
         <title>SyncRig Host</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Thu, 05 Nov 2026 16:33:11 +0800</pubDate>
+            <sparkle:version>2611051631</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://joeysudoer.github.io/syncrig-updates/SyncRig-Host-0.1.0-2611051631.zip" length="2285457" type="application/octet-stream" sparkle:edSignature="U2r4XVBC/1L4TYW3eE/UyUm+JDRMXrfAz146WytghDYeI5ArfZqHq2W2lrwfzPKfRhcfmQJbk9CGLk9nUVFWDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://joeysudoer.github.io/syncrig-updates/SyncRig%20Host2611051631-2611051618.delta" sparkle:deltaFrom="2611051618" length="164262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DQBIzf05X6e6AgvUof2q7IP7zcGRKJCXTgK5VL9uRCz9QHtXyp8NARwbW8kZ7HHODJnyjOsYY3S0S8a6G62tBg=="/>
+                <enclosure url="https://joeysudoer.github.io/syncrig-updates/SyncRig%20Host2611051631-2611051502.delta" sparkle:deltaFrom="2611051502" length="182814" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="amDuEQtVr+B37bowjBT6PFCk7sA24qKPNAv8Ods1YkJusc1BzZy38NzYTuqFGmso59BWV7oyZbWe+CuLE/SlDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Thu, 05 Nov 2026 16:20:38 +0800</pubDate>
             <sparkle:version>2611051618</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
