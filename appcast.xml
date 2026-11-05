@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SyncRig Host</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 05 Nov 2026 15:06:18 +0800</pubDate>
+            <sparkle:version>2611051502</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://joeysudoer.github.io/syncrig-updates/SyncRig-Host-0.1.0-2611051502.zip" length="2281351" type="application/octet-stream" sparkle:edSignature="QU4YEnFsbL9OodiYq3WrsnQXCW9OjYjKoRFt0JxTJ/XbQPAuTZovrlHh6doucQkpNs5Lj5WDriJe8HhZ05rhCA=="/>
+        </item>
+    </channel>
+</rss>
