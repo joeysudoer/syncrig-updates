@@ -1,0 +1,5 @@
+# 安装包放在 GitHub Releases，这里只提交 appcast.xml
+*.zip
+*.dmg
+*.delta
+old_updates/
