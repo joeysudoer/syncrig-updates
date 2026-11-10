@@ -4,15 +4,28 @@
         <title>SyncRig Host</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 10 Nov 2026 17:26:06 +0800</pubDate>
+            <sparkle:version>2611101724</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611101724/SyncRig-Host-0.1.0-2611101724.zip" length="2612091" type="application/octet-stream" sparkle:edSignature="i6azviK3t1qJWDWU0f9eJQJqyK4sdJhe//wc73vS1su1N9Xyis721tp5z1QIpAUvchJsynm4rsCVoKdbTaE1BA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611101724/SyncRig-Host-2611101724-2611081307.delta" sparkle:deltaFrom="2611081307" length="316070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QSKFr2WCiKgqNMtGN1jB6lOmZw9HEG9ZPp3A2gEU/Eg9CaLYFaba+MOlqOGcN7TCCQVr4FYLipQIZGAulvKjDw=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611101724/SyncRig-Host-2611101724-2611071639.delta" sparkle:deltaFrom="2611071639" length="338046" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o/LijtXEY1fY0t3HRc8YeuOKD4FI0njL4PTNiLCBhFsV/Dvlg5GB8teX1HSRYqtX7ewqznN8Qplu9GftBBN4Dw=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611101724/SyncRig-Host-2611101724-2611051733.delta" sparkle:deltaFrom="2611051733" length="598662" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BCQj81u94f5HmcCHQ4rl+wQjYElYlVP7lcPNXGCTFSwXHhvltoF9AmF3Hu6NkaNPaBbyXdEXUxSe+2PTmPgFAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Sun, 08 Nov 2026 13:09:33 +0800</pubDate>
             <sparkle:version>2611081307</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host-0.1.0-2611081307.zip" length="2526841" type="application/octet-stream" sparkle:edSignature="H9X1tCWSwZmMKk0yvgAqyDtnKYKlgZfmRs/kSj3NfG7MgZ8i65Jp3rY3ggXsewsvrs7WlWlUlqSmiaxfBFOVAA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host-2611081307-2611071639.delta" sparkle:deltaFrom="2611071639" length="202618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YAhjvd05bx/PVfSVoU0I6S+xSFgv6HaoJnNoXhTHZDXttpNKnrJzLr5y8InFGmBxbeL4ahqKCPGFYswZPKrqCw=="/>
-                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host-2611081307-2611051733.delta" sparkle:deltaFrom="2611051733" length="472370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1TMXajNWb6Dr3kmHoF9gX5UcAHxBUhG7FWkk3OXpiketgcrXlPT01PXAIhdT9N0FRupH0Dss+OwnGiKPnqy0BQ=="/>
-                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host-2611081307-2611051631.delta" sparkle:deltaFrom="2611051631" length="500494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LmrSSUMWV9jg3hff0oLpg2wAFyl6B1KJz94IEBjSeEqOtpbn5oEclQcgeS4zcjr+lsVWqkb1UJK5cttR9jHXDQ=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host--2611081307-2611071639.delta" sparkle:deltaFrom="2611071639" length="202618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YAhjvd05bx/PVfSVoU0I6S+xSFgv6HaoJnNoXhTHZDXttpNKnrJzLr5y8InFGmBxbeL4ahqKCPGFYswZPKrqCw=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host--2611081307-2611051733.delta" sparkle:deltaFrom="2611051733" length="472370" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1TMXajNWb6Dr3kmHoF9gX5UcAHxBUhG7FWkk3OXpiketgcrXlPT01PXAIhdT9N0FRupH0Dss+OwnGiKPnqy0BQ=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611081307/SyncRig-Host--2611081307-2611051631.delta" sparkle:deltaFrom="2611051631" length="500494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LmrSSUMWV9jg3hff0oLpg2wAFyl6B1KJz94IEBjSeEqOtpbn5oEclQcgeS4zcjr+lsVWqkb1UJK5cttR9jHXDQ=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -23,19 +36,8 @@
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611071639/SyncRig-Host-0.1.0-2611071639.zip" length="2511341" type="application/octet-stream" sparkle:edSignature="ryevRY1aio2yf8NWHXuzgVsMBIainKAtvhIJ+08j/D9qG/XG5o/W2BYr8eSV2DQ88gkNCb+bmXXJfl0bbr1WCA=="/>
             <sparkle:deltas>
-                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611071639/SyncRig-Host--2611071639-2611051733.delta" sparkle:deltaFrom="2611051733" length="397678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2eb9kldyvcad0sT/8Hw84QCDPR97d1wAZiTCvasR/OKUmde2VWocMrNhxYflc4IgHLLvStz1Pgw1YRrxvgjpAg=="/>
-                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611071639/SyncRig-Host--2611071639-2611051631.delta" sparkle:deltaFrom="2611051631" length="433218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HlYzK8y0lMVqY8fozddN7sMFklFp5B7T/aiU91ISqruaSJSgCBfTejzklJSUmSkSftJAadAoMA7xcyPUbdlsDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.0</title>
-            <pubDate>Thu, 05 Nov 2026 17:35:48 +0800</pubDate>
-            <sparkle:version>2611051733</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611051733/SyncRig-Host-0.1.0-2611051733.zip" length="2306296" type="application/octet-stream" sparkle:edSignature="nf7ehMNPveAl6RgCrwiaF+X8v1VDk4kcxtkon4ATNMrnarSIc/v9WjHQnih7EgpslSsy0ZjykIX/Z3vBmER6CA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611051733/SyncRig-Host---2611051733-2611051631.delta" sparkle:deltaFrom="2611051631" length="180730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JqOVMErUWHZerISotaCSF8knTR0FXq64zeN0O4xhtZ5OA4XPIQPiC0xfyThPi1Covnyj5dTAt/EZFQnSecGyDQ=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611071639/SyncRig-Host---2611071639-2611051733.delta" sparkle:deltaFrom="2611051733" length="397678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2eb9kldyvcad0sT/8Hw84QCDPR97d1wAZiTCvasR/OKUmde2VWocMrNhxYflc4IgHLLvStz1Pgw1YRrxvgjpAg=="/>
+                <enclosure url="https://github.com/joeysudoer/syncrig-updates/releases/download/v0.1.0-2611071639/SyncRig-Host---2611071639-2611051631.delta" sparkle:deltaFrom="2611051631" length="433218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HlYzK8y0lMVqY8fozddN7sMFklFp5B7T/aiU91ISqruaSJSgCBfTejzklJSUmSkSftJAadAoMA7xcyPUbdlsDw=="/>
             </sparkle:deltas>
         </item>
     </channel>
